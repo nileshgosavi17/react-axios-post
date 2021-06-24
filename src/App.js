@@ -1,10 +1,10 @@
-import './App.css';
-import Form from './components/Form';
+import "./App.css";
+import PostHttp from "./components/PostHttp";
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <PostHttp />
     </div>
   );
 }
